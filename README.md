@@ -5,4 +5,4 @@
 - 📫 You can reach me over e-mail at [proximyst@proximy.st](mailto:proximyst@proximy.st) with my [PGP key 0x7E8663CA3C537F64](https://www.proximy.st/pubkey.asc).
 
 [Paper]: https://github.com/PaperMC/Paper
-[moonshine]: https://github.com/Proximyst/moonshine
+[moonshine]: https://github.com/KyoriPowered/moonshine
